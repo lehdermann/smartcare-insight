@@ -1,0 +1,4 @@
+# Default access control rules
+# Allow healthcare user to publish and subscribe to all topics
+user healthcare
+topic readwrite #
